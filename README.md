@@ -1,8 +1,8 @@
 # Visualization Framework
   fork from hediet/visualization
 
-# 目的：
-  尝试搭配lldb使用
+# 目的（1天半时间）
+  尝试搭配lldb使用, 利用lldb的python生成js文件，然后再给visualization可视化数据
 
 
 This repository contains two packages.
